@@ -1,0 +1,14 @@
+C:\Users\filipe\Desktop\introducao\introducaocsharp\bin\Debug\net8.0\introducaocsharp.exe
+C:\Users\filipe\Desktop\introducao\introducaocsharp\bin\Debug\net8.0\introducaocsharp.deps.json
+C:\Users\filipe\Desktop\introducao\introducaocsharp\bin\Debug\net8.0\introducaocsharp.runtimeconfig.json
+C:\Users\filipe\Desktop\introducao\introducaocsharp\bin\Debug\net8.0\introducaocsharp.dll
+C:\Users\filipe\Desktop\introducao\introducaocsharp\bin\Debug\net8.0\introducaocsharp.pdb
+C:\Users\filipe\Desktop\introducao\introducaocsharp\obj\Debug\net8.0\introducaocsharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\filipe\Desktop\introducao\introducaocsharp\obj\Debug\net8.0\introducaocsharp.AssemblyInfoInputs.cache
+C:\Users\filipe\Desktop\introducao\introducaocsharp\obj\Debug\net8.0\introducaocsharp.AssemblyInfo.cs
+C:\Users\filipe\Desktop\introducao\introducaocsharp\obj\Debug\net8.0\introducaocsharp.csproj.CoreCompileInputs.cache
+C:\Users\filipe\Desktop\introducao\introducaocsharp\obj\Debug\net8.0\introducaocsharp.dll
+C:\Users\filipe\Desktop\introducao\introducaocsharp\obj\Debug\net8.0\refint\introducaocsharp.dll
+C:\Users\filipe\Desktop\introducao\introducaocsharp\obj\Debug\net8.0\introducaocsharp.pdb
+C:\Users\filipe\Desktop\introducao\introducaocsharp\obj\Debug\net8.0\introducaocsharp.genruntimeconfig.cache
+C:\Users\filipe\Desktop\introducao\introducaocsharp\obj\Debug\net8.0\ref\introducaocsharp.dll
